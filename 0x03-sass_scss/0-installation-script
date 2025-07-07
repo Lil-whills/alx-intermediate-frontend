@@ -1,0 +1,5 @@
+ Steps to install SASS globally
+1. Installed Node.js v22.17.0
+2. Verified installation using: node -v and npm -v
+3. Installed SASS globally using: npm install -g sass
+4. Verified installation with: sass --version
